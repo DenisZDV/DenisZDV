@@ -13,7 +13,7 @@
 
 *Independent researcher. Building systems, not dashboards.*
 
-[![Medium        ](https://img.shields.io/badge/Medium-@akarahta-black?style=flat-square&logo=medium)](https://medium.com/@akarahta)
+[![Medium](https://medium.com/@akarahta)
 [![Email](https://img.shields.io/badge/Email-a777500777@gmail.com-grey?style=flat-square&logo=gmail)](mailto:a777500777@gmail.com)
 [![Kazakhstan](https://img.shields.io/badge/Location-Astana%2C%20KZ-blue?style=flat-square)](https://en.wikipedia.org/wiki/Astana)
 
