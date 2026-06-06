@@ -9,7 +9,7 @@
 ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝╚══════╝    ╚══════╝╚═════╝   ╚═══╝  
 ```
 
-### Denis Zolotov — AI Automation · Web3 Security · Data Analytics
+### Denis Zolotov V. — AI Automation · Web3 Security · Data Analytics
 
 *Independent researcher. Building systems, not dashboards.*
 
