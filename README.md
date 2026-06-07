@@ -54,7 +54,7 @@ I approach engineering problems the same way I approached trade: follow the data
 <table>
 <tr>
   <th width="230" align="left">Project</th>
-  <th width="320" align="left">Stack</th>
+  <th width="350" align="left">Stack</th>
   <th width="650" align="left">Description</th>
 </tr>
 <tr>
