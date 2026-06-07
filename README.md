@@ -58,6 +58,7 @@ I approach engineering problems the same way I approached trade: follow the data
 | [`btc-technical-analysis`](https://github.com/DenisZDV/btc_technical_analysis) | Python · JS · Binance API | BTC charting with KVO signals, Telegram alerts, multi-exchange fallback |
 | [`layerzero-audit-notes`](https://github.com/DenisZDV/layerzero_udit_notes/tree/main) | Rust · Soroban | Security research notes from LayerZero V2 Code4rena audit |
 | [`smart-contract-security`](https://github.com/DenisZDV/solidity_security_patterns) | Solidity | Cooldown + TWAP с liquidity threshold + circuit breaker + decimal normalization |
+| [`smart-contract-security`](https://github.com/DenisZDV/cobol) | COBOL, Python | COBOL to Python Translatorn |
 
 
 ---
