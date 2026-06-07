@@ -60,8 +60,16 @@ I approach engineering problems the same way I approached trade: follow the data
 | [`COBOL`](https://github.com/DenisZDV/cobol) | COBOL, Python | COBOL to Python Translatorn |
 
 <table>
-<tr><th width="300">Project</th><th width="300">Stack</th><th>Description</th></tr>
-<tr><td><a href="...">yandex-maps-parser</a></td><td>Python · Selenium · Pandas</td><td>Yandex Maps business data scraper</td></tr>
+<tr>
+  <th width="25%">Project</th>
+  <th width="25%">Stack</th>
+  <th width="50%">Description</th>
+</tr>
+<tr>
+  <td><a href="...">yandex-maps-parser</a></td>
+  <td>Python · Selenium · Pandas</td>
+  <td>Yandex Maps business data scraper</td>
+</tr>
 </table>
 ---
 
