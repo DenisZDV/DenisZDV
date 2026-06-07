@@ -61,9 +61,9 @@ I approach engineering problems the same way I approached trade: follow the data
 
 <table>
 <tr>
-  <th width="25%">Project</th>
-  <th width="25%">Stack</th>
-  <th width="50%">Description</th>
+  <th width="300">Project</th>
+  <th width="300">Stack</th>
+  <th width="300">Description</th>
 </tr>
 <tr>
   <td><a href="...">yandex-maps-parser</a></td>
