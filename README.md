@@ -59,7 +59,10 @@ I approach engineering problems the same way I approached trade: follow the data
 | [`smart-contract-security`](https://github.com/DenisZDV/solidity_security_patterns) | Solidity | Cooldown + TWAP с liquidity threshold + circuit breaker + decimal normalization |
 | [`COBOL`](https://github.com/DenisZDV/cobol) | COBOL, Python | COBOL to Python Translatorn |
 
-
+<table>
+<tr><th width="180">Project</th><th width="200">Stack</th><th>Description</th></tr>
+<tr><td><a href="...">yandex-maps-parser</a></td><td>Python · Selenium · Pandas</td><td>Yandex Maps business data scraper</td></tr>
+</table>
 ---
 
 ## Stack
