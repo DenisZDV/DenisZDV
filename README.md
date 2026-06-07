@@ -54,7 +54,7 @@ I approach engineering problems the same way I approached trade: follow the data
 <table>
 <tr>
   <th width="230" align="left">Project</th>
-  <th width="280" align="left">Stack</th>
+  <th width="270" align="left">Stack</th>
   <th width="650" align="left">Description</th>
 </tr>
 <tr>
@@ -75,16 +75,16 @@ I approach engineering problems the same way I approached trade: follow the data
 <tr>
   <td><a href="https://github.com/DenisZDV/solidity_security_patterns">smart-contract-security</a></td>
   <td>Solidity</td>
-  <td>Cooldown + TWAP с liquidity threshold + circuit breaker + decimal normalization</td>
+  <td>Cooldown + TWAP oracle + circuit breaker pattern</td>
 </tr>
 <tr>
   <td><a href="https://github.com/DenisZDV/solidity_security_patterns">cobol</td>
-  <td>COBOL, Python</td>
+  <td>Python · COBOL · SQLite · PostgreSQL</td>
   <td>COBOL to Python Translatorn</td>
 </tr>
 <tr>
   <td><a href="https://github.com/DenisZDV/computer_vision_toolkit">computer-vision-toolkit</a></td>
-  <td>Python, YOLO</td>
+  <td>Python · YOLOv8 · ByteTrack · EasyOCR</td>
   <td>Computer vision</td>
 </tr>
 </table>
