@@ -66,7 +66,7 @@ I approach engineering problems the same way I approached trade: follow the data
   <th width="650" align="left">Description</th>
 </tr>
 <tr>
-  <td><a href="https://github.com/DenisZDV/yandex-maps-parser/tree/main">yandex-maps-parser</a></td>
+  <td><a href="https://github.com/DenisZDV/yandex-maps-parser">yandex-maps-parser</a></td>
   <td>Python · Selenium · Pandas</td>
   <td>Yandex Maps business data scraper</td>
 </tr>
@@ -76,7 +76,7 @@ I approach engineering problems the same way I approached trade: follow the data
   <td>Graphical and digital analytics on Bitcoin (BTC)</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/DenisZDV/layerzero_udit_notes/tree/main">layerzero-audit-notes</a></td>
+  <td><a href="https://github.com/DenisZDV/layerzero_udit_notes">layerzero-audit-notes</a></td>
   <td>Rust · Soroban</td>
   <td> Security research notes from LayerZero V2 Code4rena audit</td>
 </tr>
