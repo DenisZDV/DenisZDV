@@ -55,7 +55,7 @@ I approach engineering problems the same way I approached trade: follow the data
 <tr>
   <th width="230" align="left">Project</th>
   <th width="390" align="left">Stack</th>
-  <th width="490" align="left">Description</th>
+  <th width="510" align="left">Description</th>
 </tr>
 <tr>
   <td><a href="https://github.com/DenisZDV/yandex-maps-parser">yandex-maps-parser</a></td>
