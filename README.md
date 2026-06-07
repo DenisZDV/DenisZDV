@@ -61,7 +61,7 @@ I approach engineering problems the same way I approached trade: follow the data
 
 <table>
 <tr>
-  <th width="200" align="left">Project</th>
+  <th width="250" align="left">Project</th>
   <th width="250" align="left">Stack</th>
   <th width="650" align="left">Description</th>
 </tr>
@@ -86,7 +86,7 @@ I approach engineering problems the same way I approached trade: follow the data
   <td>Cooldown + TWAP с liquidity threshold + circuit breaker + decimal normalization</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/DenisZDV/solidity_security_patterns">COBOL/a></td>
+  <td><a href="https://github.com/DenisZDV/solidity_security_patterns">COBOL></td>
   <td>COBOL, Python</td>
   <td>COBOL to Python Translatorn</td>
 </tr>
