@@ -27,7 +27,7 @@
 
 I approach engineering problems the same way I approached trade: follow the data, eliminate noise, build for edge cases.
 
-**Hardware:** Ryzen 9 9950X3D · RTX 5080 16GB · 128GB DDR5 · 3 pcs of 4K monitors
+**Hardware:** Ryzen 9 9950X3D · RTX 5080 16GB · 128GB DDR5 · 3 pcs of 4K monitors · 1 Gbps
 
 ---
 
