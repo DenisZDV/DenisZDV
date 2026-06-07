@@ -66,7 +66,17 @@ I approach engineering problems the same way I approached trade: follow the data
   <th width="650">Description</th>
 </tr>
 <tr>
-  <td><a href="...">yandex-maps-parser</a></td>
+  <td><a href="https://github.com/DenisZDV/yandex-maps-parser/tree/main">yandex-maps-parser</a></td>
+  <td>Python · Selenium · Pandas</td>
+  <td>Yandex Maps business data scraper</td>
+</tr>
+  <tr>
+  <th width="200">Project</th>
+  <th width="250">Stack</th>
+  <th width="650">Description</th>
+</tr>
+<tr>
+  <td><a href="https://github.com/DenisZDV/yandex-maps-parser/tree/main">yandex-maps-parser</a></td>
   <td>Python · Selenium · Pandas</td>
   <td>Yandex Maps business data scraper</td>
 </tr>
