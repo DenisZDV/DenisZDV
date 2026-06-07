@@ -104,7 +104,6 @@ Research    Smart contract auditing · LLM architecture · GEO/LLM-SEO
 ## Writing
 
 Technical articles on Medium — LLM architecture mechanics and AI's systemic impact on software development.
-
 → [@akarahta on Medium](https://medium.com/@akarahta)
 
 ---
