@@ -78,9 +78,9 @@ I approach engineering problems the same way I approached trade: follow the data
   <td>Cooldown + TWAP oracle + circuit breaker pattern</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/DenisZDV/solidity_security_patterns">cobol</td>
+  <td><a href="https://github.com/DenisZDV/cobol">cobol</td>
   <td>Python · COBOL · SQLite · PostgreSQL</td>
-  <td>COBOL to Python Translatorn</td>
+  <td>COBOL to Python Translator</td>
 </tr>
 <tr>
   <td><a href="https://github.com/DenisZDV/computer_vision_toolkit">computer-vision-toolkit</a></td>
