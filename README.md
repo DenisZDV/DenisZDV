@@ -70,7 +70,7 @@ I approach engineering problems the same way I approached trade: follow the data
 <tr>
   <td><a href="https://github.com/DenisZDV/layerzero_udit_notes">layerzero-audit-notes</a></td>
   <td>Rust · Soroban</td>
-  <td> Security research notes from LayerZero V2 Code4rena audit</td>
+  <td> Security research (LayerZero V2 Code4rena audit)</td>
 </tr>
 <tr>
   <td><a href="https://github.com/DenisZDV/solidity_security_patterns">smart-contract-security</a></td>
