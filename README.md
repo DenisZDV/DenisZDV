@@ -85,7 +85,7 @@ I approach engineering problems the same way I approached trade: follow the data
 <tr>
   <td><a href="https://github.com/DenisZDV/computer_vision_toolkit">computer-vision-toolkit</a></td>
   <td>Python · YOLOv8 · ByteTrack · EasyOCR</td>
-  <td>Computer vision</td>
+  <td>RTSP inference · zone counting · LPR · screen capture</td>
 </tr>
 </table>
 
