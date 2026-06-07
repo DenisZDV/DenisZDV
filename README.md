@@ -86,7 +86,7 @@ I approach engineering problems the same way I approached trade: follow the data
   <td>Cooldown + TWAP с liquidity threshold + circuit breaker + decimal normalization</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/DenisZDV/solidity_security_patterns">COBOL</td>
+  <td><a href="https://github.com/DenisZDV/solidity_security_patterns">cobol</td>
   <td>COBOL, Python</td>
   <td>COBOL to Python Translatorn</td>
 </tr>
