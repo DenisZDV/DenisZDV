@@ -104,6 +104,13 @@ Research    Smart contract auditing · LLM architecture · GEO/LLM-SEO
 ## Writing
 
 Technical articles on Medium — LLM architecture mechanics and AI's systemic impact on software development.
+<table>
+<tr>
+  <td><a href="https://github.com/DenisZDV/yandex-maps-parser">yandex-maps-parser</a></td>
+  <td>Python · Selenium · Pandas</td>
+  <td>Yandex Maps business data scraper</td>
+</tr>
+</table>
 → [@akarahta on Medium](https://medium.com/@akarahta)
 
 ---
