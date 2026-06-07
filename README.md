@@ -71,9 +71,24 @@ I approach engineering problems the same way I approached trade: follow the data
   <td>Yandex Maps business data scraper</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/DenisZDV/yandex-maps-parser/tree/main">yandex-maps-parser</a></td>
-  <td>Python · Selenium · Pandas</td>
-  <td>Yandex Maps business data scraper</td>
+  <td><a href="https://github.com/DenisZDV/btc_technical_analysis">yandex-maps-parser</a></td>
+  <td>Python · JS · Binance API</td>
+  <td>Graphical and digital analytics on Bitcoin (BTC)</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/DenisZDV/layerzero_udit_notes/tree/main">yandex-maps-parser</a></td>
+  <td>Rust · Soroban</td>
+  <td> Security research notes from LayerZero V2 Code4rena audit</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/DenisZDV/solidity_security_patterns">yandex-maps-parser</a></td>
+  <td>Solidity</td>
+  <td>Cooldown + TWAP с liquidity threshold + circuit breaker + decimal normalization</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/DenisZDV/solidity_security_patterns">yandex-maps-parser</a></td>
+  <td>COBOL, Python</td>
+  <td>COBOL to Python Translatorn</td>
 </tr>
 </table>
 ---
