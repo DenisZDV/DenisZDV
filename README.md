@@ -47,6 +47,8 @@ I approach engineering problems the same way I approached trade: follow the data
 - Multi-exchange data pipelines with fallback architecture
 - Return distribution modeling and probability analysis
 
+https://pypi.org/project/harness-utils/
+
 ---
 
 ## Selected Projects
